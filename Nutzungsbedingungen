@@ -1,0 +1,106 @@
+Nutzungsbedingungen für Rusty
+
+Stand: 27.08.2026
+
+1. Geltungsbereich
+
+Diese Nutzungsbedingungen gelten für die Nutzung des Discord-Bots „Rusty“ innerhalb der Plattform Discord.
+
+Mit der Nutzung von Rusty erklärst du dich mit diesen Nutzungsbedingungen einverstanden.
+
+2. Beschreibung des Dienstes
+
+Rusty stellt verschiedene Funktionen innerhalb von Discord bereit. Der genaue Funktionsumfang kann jederzeit erweitert, geändert oder eingeschränkt werden.
+
+Zu den derzeit verfügbaren Funktionen gehören unter anderem:
+
+* `/ping` – Anzeige der aktuellen Bot-Latenz
+* `/uptime` – Anzeige der Laufzeit des Bots
+* `/info` – Anzeige technischer Systeminformationen
+* `/stats` – Anzeige von Nutzungsstatistiken
+* `/ask` – Beantwortung von Fragen mithilfe eines externen KI-Dienstes
+
+Ein Anspruch auf die Bereitstellung einer bestimmten Funktion besteht nicht.
+
+3. Nutzung der KI-Funktion
+
+Der Befehl `/ask` verwendet einen externen KI-Dienst zur Erstellung von Antworten.
+
+KI-generierte Antworten können:
+
+* falsch oder unvollständig sein,
+* veraltete oder ungenaue Informationen enthalten,
+* missverständlich formuliert sein,
+* nicht für jeden Anwendungsfall geeignet sein.
+
+Die Antworten von Rusty stellen keine professionelle Beratung dar.
+
+Insbesondere sollten die Antworten nicht als Ersatz für medizinische, rechtliche, finanzielle oder sonstige professionelle Beratung verwendet werden.
+
+4. Verantwortungsvolle Nutzung
+
+Die Nutzer verpflichten sich, Rusty nicht für rechtswidrige Zwecke oder zur Verletzung von Rechten Dritter zu verwenden.
+
+Insbesondere ist es untersagt, Rusty:
+
+* absichtlich zu missbrauchen,
+* durch automatisierte Anfragen unnötig zu belasten,
+* für Spam oder vergleichbare Störungen einzusetzen,
+* zur Umgehung technischer Schutzmaßnahmen zu verwenden,
+* für rechtswidrige Aktivitäten einzusetzen.
+
+Die Nutzung von Rusty muss außerdem mit den geltenden Discord-Regeln und Nutzungsbedingungen vereinbar sein.
+
+5. Inhalte von Nutzern
+
+Für die Inhalte, die Nutzer über `/ask` oder andere Funktionen eingeben, sind grundsätzlich die jeweiligen Nutzer verantwortlich.
+
+Bitte übermittle keine vertraulichen oder sensiblen Informationen über `/ask`, da Anfragen zur Verarbeitung an einen externen KI-Dienst übertragen werden können.
+
+6. Verfügbarkeit
+
+Wir bemühen uns um einen zuverlässigen Betrieb von Rusty, können jedoch keine ununterbrochene Verfügbarkeit garantieren.
+
+Der Bot kann insbesondere aufgrund von:
+
+* Wartungsarbeiten,
+* technischen Problemen,
+* Ausfällen von Drittanbietern,
+* Änderungen der Discord- oder API-Schnittstellen,
+* Updates
+
+vorübergehend nicht verfügbar sein.
+
+7. Drittanbieter
+
+Rusty verwendet Dienste Dritter, insbesondere Discord, den Hosting-Anbieter Wispbyte und für die KI-Funktion die Gemini API von Google.
+
+Für diese Dienste können zusätzlich deren eigene Nutzungsbedingungen und Datenschutzbestimmungen gelten.
+
+## 8. Sperrung der Nutzung
+
+Der Betreiber kann den Zugriff einzelner Nutzer auf Rusty einschränken oder sperren, wenn ein Verstoß gegen diese Nutzungsbedingungen, geltendes Recht oder die Regeln von Discord festgestellt wird oder ein Missbrauch des Bots vermutet wird.
+
+Ein Anspruch auf Nutzung des Bots besteht nicht.
+
+9. Änderungen des Bots
+
+Der Betreiber kann Funktionen von Rusty jederzeit ändern, entfernen oder hinzufügen.
+
+Diese Änderungen können ohne vorherige Ankündigung vorgenommen werden, sofern dies zumutbar ist.
+
+10. Haftung
+
+Soweit gesetzlich zulässig, wird keine Garantie für die Richtigkeit, Vollständigkeit oder Aktualität der durch Rusty bereitgestellten Informationen übernommen.
+
+Insbesondere wird keine Verantwortung für Entscheidungen übernommen, die Nutzer ausschließlich aufgrund KI-generierter Antworten treffen.
+
+Die Haftung für Schäden, für die nach zwingenden gesetzlichen Vorschriften gehaftet werden muss, bleibt unberührt.
+
+11. Änderungen der Nutzungsbedingungen
+
+Diese Nutzungsbedingungen können geändert werden, wenn dies aufgrund von Änderungen des Bots, der verwendeten Dienste oder rechtlicher Anforderungen erforderlich ist.
+
+Es gilt jeweils die aktuell veröffentlichte Fassung.
+
+Stand: 27.08.2026
