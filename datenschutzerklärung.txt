@@ -1,21 +1,21 @@
-# Datenschutzerklärung für Rusty
+Datenschutzerklärung für Rusty
 
-**Stand: 27.08.2026**
+Stand: 27.08.2026
 
-## 1. Verantwortlicher
+1. Verantwortlicher
 
 Verantwortlich für die Verarbeitung personenbezogener Daten im Zusammenhang mit dem Discord-Bot „Rusty“ ist:
 
-**Mattis Bothe**
+Mattis Bothe
 m.bothe@atomicmail.io
 
 Bei Fragen zum Datenschutz kannst du dich jederzeit unter der oben genannten E-Mail-Adresse an uns wenden.
 
-## 2. Über den Discord-Bot
+2. Über den Discord-Bot
 
 „Rusty“ ist ein Discord-Bot, der innerhalb von Discord verschiedene Funktionen bereitstellt. Dazu gehören unter anderem Befehle zur Anzeige von Informationen, Statistiken und eine KI-gestützte Frage-Antwort-Funktion über den Befehl `/ask`.
 
-## 3. Welche Daten werden verarbeitet?
+3. Welche Daten werden verarbeitet?
 
 Bei der Nutzung von Rusty können abhängig von der verwendeten Funktion insbesondere folgende Daten verarbeitet werden:
 
@@ -28,7 +28,7 @@ Bei der Nutzung von Rusty können abhängig von der verwendeten Funktion insbeso
 
 Nicht jede dieser Informationen wird bei jeder Nutzung verarbeitet.
 
-## 4. Protokollierung von `/ask`
+4. Protokollierung von `/ask`
 
 Bei Verwendung des Befehls `/ask` speichert Rusty zur Erstellung von Nutzungsstatistiken und zur Protokollierung der Nutzung unter anderem:
 
@@ -45,7 +45,7 @@ Die Daten werden für den Betrieb und die Verwaltung des Bots sowie für Nutzung
 **Speicherdauer:**
 Die Protokolldaten werden für einen Zeitraum von 90 TAGEN gespeichert und anschließend gelöscht.
 
-## 5. Verarbeitung von Fragen durch einen KI-Dienst
+5. Verarbeitung von Fragen durch einen KI-Dienst
 
 Wenn du `/ask` verwendest, wird deine eingegebene Frage an einen externen KI-Dienst übermittelt, um eine Antwort zu erzeugen.
 
@@ -59,7 +59,7 @@ https://policies.google.com/privacy
 
 Bitte gib über `/ask` keine vertraulichen, sensiblen oder sonstigen Informationen ein, die du nicht an einen externen KI-Dienst übermitteln möchtest.
 
-## 6. Rechtsgrundlage
+6. Rechtsgrundlage
 
 Soweit die Datenschutz-Grundverordnung (DSGVO) Anwendung findet, erfolgt die Verarbeitung personenbezogener Daten abhängig vom jeweiligen Zweck insbesondere auf Grundlage von:
 
@@ -69,7 +69,7 @@ Soweit die Datenschutz-Grundverordnung (DSGVO) Anwendung findet, erfolgt die Ver
 
 Welche Rechtsgrundlage im Einzelfall einschlägig ist, hängt von der konkreten Nutzung und Ausgestaltung des Bots ab.
 
-## 7. Discord
+7. Discord
 
 Rusty wird über die Plattform Discord betrieben. Bei der Nutzung von Discord werden Daten entsprechend den Datenschutzbestimmungen von Discord verarbeitet.
 
@@ -77,7 +77,7 @@ Weitere Informationen findest du in der Datenschutzrichtlinie von Discord:
 
 https://discord.com/privacy
 
-## 8. Hosting
+8. Hosting
 
 Der Bot wird auf Servern des Hosting-Anbieters Wispbyte betrieben.
 
@@ -85,7 +85,7 @@ Dabei können technisch notwendige Daten im Rahmen des Serverbetriebs verarbeite
 
 Weitere Informationen zur Datenverarbeitung durch den Hosting-Anbieter findest du in dessen jeweils gültigen Datenschutzinformationen.
 
-## 9. Deine Rechte
+9. Deine Rechte
 
 Soweit die DSGVO auf dich Anwendung findet, hast du insbesondere folgende Rechte:
 
@@ -101,10 +101,10 @@ Zur Ausübung deiner Rechte kannst du dich an m.bothe@atomicmail.io wenden.
 
 Darüber hinaus hast du das Recht, dich bei einer zuständigen Datenschutzaufsichtsbehörde zu beschweren.
 
-## 10. Änderungen dieser Datenschutzerklärung
+10. Änderungen dieser Datenschutzerklärung
 
 Wir behalten uns vor, diese Datenschutzerklärung zu ändern, wenn sich der Funktionsumfang von Rusty, die verwendeten Dienste oder die rechtlichen Anforderungen ändern.
 
 Es gilt jeweils die zum Zeitpunkt der Nutzung veröffentlichte Fassung.
 
-**Stand:** 27.08.2026
+Stand: 27.08.2026
